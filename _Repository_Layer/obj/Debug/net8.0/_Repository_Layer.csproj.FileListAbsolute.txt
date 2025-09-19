@@ -1,0 +1,15 @@
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Repository_Layer\obj\Debug\net8.0\_Repository_Layer.csproj.AssemblyReference.cache
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Repository_Layer\obj\Debug\net8.0\_Repository_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Repository_Layer\obj\Debug\net8.0\_Repository_Layer.AssemblyInfoInputs.cache
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Repository_Layer\obj\Debug\net8.0\_Repository_Layer.AssemblyInfo.cs
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Repository_Layer\obj\Debug\net8.0\_Repository_Layer.csproj.CoreCompileInputs.cache
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Repository_Layer\bin\Debug\net8.0\_Repository_Layer.deps.json
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Repository_Layer\bin\Debug\net8.0\_Repository_Layer.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Repository_Layer\bin\Debug\net8.0\_Repository_Layer.pdb
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Repository_Layer\bin\Debug\net8.0\_Data_Layer.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Repository_Layer\bin\Debug\net8.0\_Data_Layer.pdb
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Repository_Layer\obj\Debug\net8.0\_Reposit.3C1E1238.Up2Date
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Repository_Layer\obj\Debug\net8.0\_Repository_Layer.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Repository_Layer\obj\Debug\net8.0\refint\_Repository_Layer.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Repository_Layer\obj\Debug\net8.0\_Repository_Layer.pdb
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Repository_Layer\obj\Debug\net8.0\ref\_Repository_Layer.dll

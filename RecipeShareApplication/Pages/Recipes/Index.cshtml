@@ -1,0 +1,34 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Recipes";
+}
+
+<h2>Recipes</h2>
+
+<a asp-page="Create" class="btn btn-success mb-3">+ Add New Recipe</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Cooking Time</th>
+            <th>Tags</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var r in Model.Recipes)
+        {
+            <tr>
+                <td>@r.Title</td>
+                <td>@r.CookingTime minutes</td>
+                <td>@string.Join(", ", r.DietaryTags)</td>
+                <td>
+                    <a asp-page="Edit" asp-route-id="@r.Id" class="btn btn-warning btn-sm">Edit</a>
+                    <a asp-page="Delete" asp-route-id="@r.Id" class="btn btn-danger btn-sm">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

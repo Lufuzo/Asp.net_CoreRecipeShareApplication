@@ -1,0 +1,32 @@
+﻿@page
+@model CreateModel
+@{
+    ViewData["Title"] = "Create Recipe";
+}
+
+<h2>Create Recipe</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Recipe.Title"></label>
+        <input asp-for="Recipe.Title" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Recipe.Ingredients"></label>
+        <textarea asp-for="Recipe.Ingredients" class="form-control"></textarea>
+    </div>
+    <div class="form-group">
+        <label asp-for="Recipe.Steps"></label>
+        <textarea asp-for="Recipe.Steps" class="form-control"></textarea>
+    </div>
+    <div class="form-group">
+        <label asp-for="Recipe.CookingTime"></label>
+        <input asp-for="Recipe.CookingTime" class="form-control" type="number" />
+    </div>
+    <div class="form-group">
+        <label>Dietary Tags (comma separated)</label>
+        <input asp-for="Recipe.DietaryTagsString" class="form-control" placeholder="comma-separated (e.g. Vegan, Gluten-Free)" />
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+    <a asp-page="Index" class="btn btn-secondary">Cancel</a>
+</form>

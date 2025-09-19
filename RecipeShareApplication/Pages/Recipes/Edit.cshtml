@@ -1,0 +1,47 @@
+﻿@page "{id:int}"
+@model EditModel
+@{
+    ViewData["Title"] = "Edit Recipe";
+}
+
+<h2>Edit Recipe</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="Recipe.Id" />
+
+    <div class="form-group">
+        <label asp-for="Recipe.Title"></label>
+        <input asp-for="Recipe.Title" class="form-control" />
+        <span asp-validation-for="Recipe.Title" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Recipe.Ingredients"></label>
+        <textarea asp-for="Recipe.Ingredients" class="form-control"></textarea>
+        <span asp-validation-for="Recipe.Ingredients" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Recipe.Steps"></label>
+        <textarea asp-for="Recipe.Steps" class="form-control"></textarea>
+        <span asp-validation-for="Recipe.Steps" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Recipe.CookingTime"></label>
+        <input asp-for="Recipe.CookingTime" type="number" class="form-control" />
+        <span asp-validation-for="Recipe.CookingTime" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label>Dietary Tags (comma separated)</label>
+        <input asp-for="DietaryTagsCsv" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+    <a asp-page="./Index" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

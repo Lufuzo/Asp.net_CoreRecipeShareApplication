@@ -1,0 +1,17 @@
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Service_Layer\obj\Debug\net8.0\_Service_Layer.csproj.AssemblyReference.cache
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Service_Layer\obj\Debug\net8.0\_Service_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Service_Layer\obj\Debug\net8.0\_Service_Layer.AssemblyInfoInputs.cache
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Service_Layer\obj\Debug\net8.0\_Service_Layer.AssemblyInfo.cs
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Service_Layer\obj\Debug\net8.0\_Service_Layer.csproj.CoreCompileInputs.cache
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Service_Layer\bin\Debug\net8.0\_Service_Layer.deps.json
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Service_Layer\bin\Debug\net8.0\_Service_Layer.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Service_Layer\bin\Debug\net8.0\_Service_Layer.pdb
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Service_Layer\bin\Debug\net8.0\_Data_Layer.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Service_Layer\bin\Debug\net8.0\_Repository_Layer.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Service_Layer\bin\Debug\net8.0\_Repository_Layer.pdb
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Service_Layer\bin\Debug\net8.0\_Data_Layer.pdb
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Service_Layer\obj\Debug\net8.0\_Service.C17304D8.Up2Date
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Service_Layer\obj\Debug\net8.0\_Service_Layer.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Service_Layer\obj\Debug\net8.0\refint\_Service_Layer.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Service_Layer\obj\Debug\net8.0\_Service_Layer.pdb
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Service_Layer\obj\Debug\net8.0\ref\_Service_Layer.dll
