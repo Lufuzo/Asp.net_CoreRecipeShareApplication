@@ -3,108 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85D72D03-2267-4B7D-A3E3-B36E72DB544D}|_Data_Layer\\_Data_Layer.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\recipe share application\\recipeshareapplication\\_data_layer\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85D72D03-2267-4B7D-A3E3-B36E72DB544D}|_Data_Layer\\_Data_Layer.csproj|solutionrelative:_data_layer\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C8DEF63-203C-417A-8810-A1101BDA31A8}|_Repository_Layer\\_Repository_Layer.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\recipe share application\\recipeshareapplication\\_repository_layer\\recipe_repo\\reciperepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C8DEF63-203C-417A-8810-A1101BDA31A8}|_Repository_Layer\\_Repository_Layer.csproj|solutionrelative:_repository_layer\\recipe_repo\\reciperepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F637696A-DE7A-4C27-BAA5-2837D7B20E2B}|_Service_Layer\\_Service_Layer.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\recipe share application\\recipeshareapplication\\_service_layer\\recipe_service\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F637696A-DE7A-4C27-BAA5-2837D7B20E2B}|_Service_Layer\\_Service_Layer.csproj|solutionrelative:_service_layer\\recipe_service\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\recipe share application\\recipeshareapplication\\recipeshareapplication\\controllers\\recipescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|solutionrelative:recipeshareapplication\\controllers\\recipescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\recipe share application\\recipeshareapplication\\recipeshareapplication\\modelviews\\recipemodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|solutionrelative:recipeshareapplication\\modelviews\\recipemodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\recipe share application\\recipeshareapplication\\recipeshareapplication\\pages\\recipes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|solutionrelative:recipeshareapplication\\pages\\recipes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\recipe share application\\recipeshareapplication\\recipeshareapplication\\pages\\recipes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|solutionrelative:recipeshareapplication\\pages\\recipes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\recipe share application\\recipeshareapplication\\recipeshareapplication\\pages\\recipes\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|solutionrelative:recipeshareapplication\\pages\\recipes\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\recipe share application\\recipeshareapplication\\recipeshareapplication\\pages\\recipes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|solutionrelative:recipeshareapplication\\pages\\recipes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\recipe share application\\recipeshareapplication\\recipeshareapplication\\pages\\recipes\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|solutionrelative:recipeshareapplication\\pages\\recipes\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\recipe share application\\recipeshareapplication\\recipeshareapplication\\pages\\recipes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|solutionrelative:recipeshareapplication\\pages\\recipes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\recipe share application\\recipeshareapplication\\recipeshareapplication\\recipeshareapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|solutionrelative:recipeshareapplication\\recipeshareapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\recipe share application\\recipeshareapplication\\recipeshareapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|solutionrelative:recipeshareapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\recipe share application\\recipeshareapplication\\recipeshareapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|solutionrelative:recipeshareapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85D72D03-2267-4B7D-A3E3-B36E72DB544D}|_Data_Layer\\_Data_Layer.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\recipe share application\\recipeshareapplication\\_data_layer\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85D72D03-2267-4B7D-A3E3-B36E72DB544D}|_Data_Layer\\_Data_Layer.csproj|solutionrelative:_data_layer\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85D72D03-2267-4B7D-A3E3-B36E72DB544D}|_Data_Layer\\_Data_Layer.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\recipe share application\\recipeshareapplication\\_data_layer\\_data_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{85D72D03-2267-4B7D-A3E3-B36E72DB544D}|_Data_Layer\\_Data_Layer.csproj|solutionrelative:_data_layer\\_data_layer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85D72D03-2267-4B7D-A3E3-B36E72DB544D}|_Data_Layer\\_Data_Layer.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\recipe share application\\recipeshareapplication\\_data_layer\\migrations\\20250918234739_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85D72D03-2267-4B7D-A3E3-B36E72DB544D}|_Data_Layer\\_Data_Layer.csproj|solutionrelative:_data_layer\\migrations\\20250918234739_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85D72D03-2267-4B7D-A3E3-B36E72DB544D}|_Data_Layer\\_Data_Layer.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\recipe share application\\recipeshareapplication\\_data_layer\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85D72D03-2267-4B7D-A3E3-B36E72DB544D}|_Data_Layer\\_Data_Layer.csproj|solutionrelative:_data_layer\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\recipe share application\\recipeshareapplication\\recipeshareapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|solutionrelative:recipeshareapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\recipe share application\\recipeshareapplication\\recipeshareapplication\\pages\\recipes\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|solutionrelative:recipeshareapplication\\pages\\recipes\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\recipe share application\\recipeshareapplication\\recipeshareapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|solutionrelative:recipeshareapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\recipe share application\\recipeshareapplication\\recipeshareapplication\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|solutionrelative:recipeshareapplication\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\recipe share application\\recipeshareapplication\\recipeshareapplication\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|solutionrelative:recipeshareapplication\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\recipe share application\\recipeshareapplication\\recipeshareapplication\\pages\\recipes\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|solutionrelative:recipeshareapplication\\pages\\recipes\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\recipe share application\\recipeshareapplication\\recipeshareapplication\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|solutionrelative:recipeshareapplication\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\recipe share application\\recipeshareapplication\\recipeshareapplication\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|solutionrelative:recipeshareapplication\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85D72D03-2267-4B7D-A3E3-B36E72DB544D}|_Data_Layer\\_Data_Layer.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\recipe share application\\recipeshareapplication\\_data_layer\\migrations\\20250918234739_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85D72D03-2267-4B7D-A3E3-B36E72DB544D}|_Data_Layer\\_Data_Layer.csproj|solutionrelative:_data_layer\\migrations\\20250918234739_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|c:\\users\\lungelo mbalane\\onedrive\\documents\\visual studio 2022\\recipe share application\\recipeshareapplication\\recipeshareapplication\\pages\\recipes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BD9C1CC-35D9-4305-8571-9A1E18DF1CA4}|RecipeShareApplication\\RecipeShareApplication.csproj|solutionrelative:recipeshareapplication\\pages\\recipes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,344 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\Pages\\Recipes\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "RecipeShareApplication\\Pages\\Recipes\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\Pages\\Recipes\\Edit.cshtml.cs",
-              "RelativeToolTip": "RecipeShareApplication\\Pages\\Recipes\\Edit.cshtml.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAkwGAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T06:14:00.499Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\Pages\\Recipes\\Edit.cshtml",
-              "RelativeDocumentMoniker": "RecipeShareApplication\\Pages\\Recipes\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\Pages\\Recipes\\Edit.cshtml",
-              "RelativeToolTip": "RecipeShareApplication\\Pages\\Recipes\\Edit.cshtml",
-              "ViewState": "AgIAABYAAAAAAAAAAAAwwCUAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-19T06:11:51.057Z",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "RecipeShareApplication\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "RecipeShareApplication\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-12T10:39:54.478Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RecipeService.cs",
-              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\_Service_Layer\\Recipe_Service\\RecipeService.cs",
-              "RelativeDocumentMoniker": "_Service_Layer\\Recipe_Service\\RecipeService.cs",
-              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\_Service_Layer\\Recipe_Service\\RecipeService.cs",
-              "RelativeToolTip": "_Service_Layer\\Recipe_Service\\RecipeService.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAwDcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T05:18:05.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RecipeRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\_Repository_Layer\\Recipe_Repo\\RecipeRepo.cs",
-              "RelativeDocumentMoniker": "_Repository_Layer\\Recipe_Repo\\RecipeRepo.cs",
-              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\_Repository_Layer\\Recipe_Repo\\RecipeRepo.cs",
-              "RelativeToolTip": "_Repository_Layer\\Recipe_Repo\\RecipeRepo.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAiwBgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T04:54:52.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Recipe.cs",
-              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\_Data_Layer\\Models\\Recipe.cs",
-              "RelativeDocumentMoniker": "_Data_Layer\\Models\\Recipe.cs",
-              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\_Data_Layer\\Models\\Recipe.cs*",
-              "RelativeToolTip": "_Data_Layer\\Models\\Recipe.cs*",
-              "ViewState": "AgIAACYAAAAAAAAAAAAgwDQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T05:07:16.184Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_Data_Layer",
-              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\_Data_Layer\\_Data_Layer.csproj",
-              "RelativeDocumentMoniker": "_Data_Layer\\_Data_Layer.csproj",
-              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\_Data_Layer\\_Data_Layer.csproj",
-              "RelativeToolTip": "_Data_Layer\\_Data_Layer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-19T04:49:56.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\_Data_Layer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "_Data_Layer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\_Data_Layer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "_Data_Layer\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T00:04:48.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "20250918234739_InitialCreate.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\_Data_Layer\\Migrations\\20250918234739_InitialCreate.Designer.cs",
-              "RelativeDocumentMoniker": "_Data_Layer\\Migrations\\20250918234739_InitialCreate.Designer.cs",
-              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\_Data_Layer\\Migrations\\20250918234739_InitialCreate.Designer.cs",
-              "RelativeToolTip": "_Data_Layer\\Migrations\\20250918234739_InitialCreate.Designer.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAIBJwCcAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T23:49:47.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "20250918234739_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\_Data_Layer\\Migrations\\20250918234739_InitialCreate.cs",
-              "RelativeDocumentMoniker": "_Data_Layer\\Migrations\\20250918234739_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\_Data_Layer\\Migrations\\20250918234739_InitialCreate.cs",
-              "RelativeToolTip": "_Data_Layer\\Migrations\\20250918234739_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T23:47:41.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\_Data_Layer\\Models\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "_Data_Layer\\Models\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\_Data_Layer\\Models\\ApplicationDbContext.cs",
-              "RelativeToolTip": "_Data_Layer\\Models\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T23:18:23.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "RecipeShareApplication\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\Properties\\launchSettings.json",
-              "RelativeToolTip": "RecipeShareApplication\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAA8AAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-18T22:26:53.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "RecipeShareApplication.csproj",
-              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\RecipeShareApplication.csproj",
-              "RelativeDocumentMoniker": "RecipeShareApplication\\RecipeShareApplication.csproj",
-              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\RecipeShareApplication.csproj",
-              "RelativeToolTip": "RecipeShareApplication\\RecipeShareApplication.csproj",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvxMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-18T21:20:18.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "RecipeShareApplication\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "RecipeShareApplication\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBkAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-18T21:54:50.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "RecipeShareApplication\\Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "RecipeShareApplication\\Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T21:51:16.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Error.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\Pages\\Error.cshtml.cs",
-              "RelativeDocumentMoniker": "RecipeShareApplication\\Pages\\Error.cshtml.cs",
-              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\Pages\\Error.cshtml.cs",
-              "RelativeToolTip": "RecipeShareApplication\\Pages\\Error.cshtml.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAIBJwAQAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T21:51:13.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\appsettings.json",
-              "RelativeDocumentMoniker": "RecipeShareApplication\\appsettings.json",
-              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\appsettings.json",
-              "RelativeToolTip": "RecipeShareApplication\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-18T21:26:51.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\Pages\\Recipes\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "RecipeShareApplication\\Pages\\Recipes\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\Pages\\Recipes\\Delete.cshtml.cs",
-              "RelativeToolTip": "RecipeShareApplication\\Pages\\Recipes\\Delete.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T21:17:04.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\Pages\\Recipes\\Delete.cshtml",
-              "RelativeDocumentMoniker": "RecipeShareApplication\\Pages\\Recipes\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\Pages\\Recipes\\Delete.cshtml",
-              "RelativeToolTip": "RecipeShareApplication\\Pages\\Recipes\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-18T21:16:28.865Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\Pages\\Recipes\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "RecipeShareApplication\\Pages\\Recipes\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\Pages\\Recipes\\Create.cshtml.cs",
-              "RelativeToolTip": "RecipeShareApplication\\Pages\\Recipes\\Create.cshtml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAnwCAAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T21:14:26.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\Pages\\Recipes\\Create.cshtml",
-              "RelativeDocumentMoniker": "RecipeShareApplication\\Pages\\Recipes\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\Pages\\Recipes\\Create.cshtml",
-              "RelativeToolTip": "RecipeShareApplication\\Pages\\Recipes\\Create.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAACBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-18T21:13:27.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\Pages\\Recipes\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "RecipeShareApplication\\Pages\\Recipes\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\Pages\\Recipes\\Index.cshtml.cs",
-              "RelativeToolTip": "RecipeShareApplication\\Pages\\Recipes\\Index.cshtml.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAIBJwB8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T21:06:57.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\Pages\\Recipes\\Index.cshtml",
               "RelativeDocumentMoniker": "RecipeShareApplication\\Pages\\Recipes\\Index.cshtml",
               "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\Pages\\Recipes\\Index.cshtml",
               "RelativeToolTip": "RecipeShareApplication\\Pages\\Recipes\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAABjAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwCEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-18T21:05:04.801Z",
+              "WhenOpened": "2025-11-12T10:37:44.25Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "RecipeShareApplication\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\Pages\\Index.cshtml",
-              "RelativeToolTip": "RecipeShareApplication\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RecipeShareApplication\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RecipeShareApplication\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-18T20:49:45.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\Program.cs",
-              "RelativeDocumentMoniker": "RecipeShareApplication\\Program.cs",
-              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\Program.cs",
-              "RelativeToolTip": "RecipeShareApplication\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T20:25:34.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RecipeModelView.cs",
-              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\ModelViews\\RecipeModelView.cs",
-              "RelativeDocumentMoniker": "RecipeShareApplication\\ModelViews\\RecipeModelView.cs",
-              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\ModelViews\\RecipeModelView.cs",
-              "RelativeToolTip": "RecipeShareApplication\\ModelViews\\RecipeModelView.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAA8wBgAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T19:43:54.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RecipesController.cs",
-              "DocumentMoniker": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\Controllers\\RecipesController.cs",
-              "RelativeDocumentMoniker": "RecipeShareApplication\\Controllers\\RecipesController.cs",
-              "ToolTip": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Recipe Share Application\\RecipeShareApplication\\RecipeShareApplication\\Controllers\\RecipesController.cs",
-              "RelativeToolTip": "RecipeShareApplication\\Controllers\\RecipesController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAIAwwDUAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T19:40:31.902Z",
+              "WhenOpened": "2025-11-12T10:36:53.435Z",
               "EditorCaption": ""
             }
           ]

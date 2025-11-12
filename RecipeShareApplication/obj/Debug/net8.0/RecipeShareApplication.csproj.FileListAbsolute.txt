@@ -175,3 +175,4 @@ C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Appl
 C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\RecipeShareApplication\obj\Debug\net8.0\RecipeShareApplication.pdb
 C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\RecipeShareApplication\obj\Debug\net8.0\RecipeShareApplication.genruntimeconfig.cache
 C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\RecipeShareApplication\obj\Debug\net8.0\ref\RecipeShareApplication.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\RecipeShareApplication\obj\Debug\net8.0\RecipeShareApplication.sourcelink.json

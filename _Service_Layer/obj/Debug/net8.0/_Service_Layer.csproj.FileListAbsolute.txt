@@ -15,3 +15,4 @@ C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Appl
 C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Service_Layer\obj\Debug\net8.0\refint\_Service_Layer.dll
 C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Service_Layer\obj\Debug\net8.0\_Service_Layer.pdb
 C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Service_Layer\obj\Debug\net8.0\ref\_Service_Layer.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Recipe Share Application\RecipeShareApplication\_Service_Layer\obj\Debug\net8.0\_Service_Layer.sourcelink.json
